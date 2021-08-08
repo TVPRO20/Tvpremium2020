@@ -1,52 +1,72 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Viuda Negra (2021) Black Widow 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="VOK 4K - SOLO SMART TV",Viuda Negra (2021) Black Widow 4K
+#EXTINF:-1 , ESCUADRON SUICIDA
+http://201.172.61.203:88/Peliculas/jul%20agos/The.suicide.squad.2021.mp4
+#EXTINF:-1 ,rapidos y furiosos opcion 1
+https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
+#EXTINF:-1 ,rapidos y furiosos opcion 2
+https://splogs-my.sharepoint.com/:v:/g/personal/laureanobrizuela_my365_ws/ETxbhJim6ilKm_7Gy28sQwoB0ElLXtuoa1WxLzxyb4Puxw?download=1
+#EXTINF:-1 ,rapidos y furiosos 2021
+http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/R%C3%A1pidos%20y%20Furiosos%209%201080.mp4
+#EXTINF:-1 group-title="VOK 4K - SOLO SMART TV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",Space Jam: Nuevas Leyendas (2021) 4K
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60363.mkv
+#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",Space Jam: Nuevas Leyendas (2021) 1080P
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60362.mkv
+#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",Space Jam: Nuevas Leyendas (2021) 720p
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60361.mkv
+#EXTINF:-1 group-title="VOK 4K - SOLO SMART TV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg",Viuda Negra (2021) Black Widow 4K
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viuda Negra (2021) Black Widow 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="VOD ESTRENOS 2021",Viuda Negra (2021) Black Widow 1080p
+#EXTINF:-1 group-title="VOD ESTRENOS 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg",Viuda Negra (2021) Black Widow 1080p
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60287.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La guerra del mañana (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBcdtoe3Vu8MacviGjkJRd0U1BG.jpg" group-title="VOK 4K - SOLO SMART TV",La guerra del mañana (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/58453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021) 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xgT9vDfT7zPvpBu2gO2l50etnR.jpg" group-title="VOD ESTRENOS 2021",The Tomorrow War (2021) 720p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/58440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xgT9vDfT7zPvpBu2gO2l50etnR.jpg" group-title="VOD ESTRENOS 2021",The Tomorrow War (2021) 1080p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/58441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021) el conjuro 3 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VOD ESTRENOS 2021",Expediente Warren: Obligado por el demonio (2021) el conjuro 3 720p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021) el conjuro 3 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VOD ESTRENOS 2021",Expediente Warren: Obligado por el demonio (2021) el conjuro 3 1080p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021) el conjuro 3 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VOK 4K - SOLO SMART TV",Expediente Warren: Obligado por el demonio (2021) el conjuro 3 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 4K OP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOK 4K - SOLO SMART TV",Cruella (2021) 4K OP
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56504.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 720p op" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD ESTRENOS 2021",Cruella (2021) 720p op
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56503.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 1080p op" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD ESTRENOS 2021",Cruella (2021) 1080p op
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56502.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOK 4K - SOLO SMART TV",Cruella (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56495.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ejército de los muertos (2021) 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="VOK 4K - SOLO SMART TV",Ejército de los muertos (2021) 4k
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56496.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="VOD ESTRENOS 2021",Mortal Kombat (2021)
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/50166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="VOK 4K - SOLO SMART TV",Mortal Kombat (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/50167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021) 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="VOD ESTRENOS 2021",Mortal Kombat (2021) 720p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/50214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong (2021) 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnuC6hu7AB5dYW26A3o6NNLlIlE.jpg" group-title="VOD ESTRENOS 2021",Godzilla vs Kong (2021) 720p
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/40746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg" group-title="VOD ESTRENOS 2021",Luca (2021)
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/57979.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg" group-title="VOD ESTRENOS 2021",La Liga de la Justicia de Zack Snyder (2021)
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/40597.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hunter Killer: Caza en las profundidades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYdNCLoAoycUGuIr7U3y9nNWGGt.jpg" group-title="VOD ACCIÓN",Hunter Killer: Caza en las profundidades (2018)
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spiral: Saw (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgpzkh96GnlRxUYZuOpdZT78T2Q.jpg" group-title="VOD ESTRENOS 2021",Spiral: Saw (2021)
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin Remordimientos (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRFMWkP33VY1tpPMRqK4oDmZunI.jpg" group-title="VOK 4K - SOLO SMART TV",Sin Remordimientos (2021) 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/52572.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin Remordimientos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRFMWkP33VY1tpPMRqK4oDmZunI.jpg" group-title="VOD ESTRENOS 2021",Sin Remordimientos (2021)
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/52574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De amor y monstruos (2020) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg" group-title="VOK 4K - SOLO SMART TV",De amor y monstruos (2020) 4K
-http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/45801.mkv
+#EXTINF:-1 ,La guerra del mañana (2021)
+https://lh3.googleusercontent.com/bKO514vK1pvaNc0UxDu6tShs0xwAzxwJUsMb9nDWP5oE96cZqbJBFynM1kUpY7a83WwunO2dRYehMH2bmt7CPJft3_3XM_6kezbBsHdJQznotOlt2pjYDcdUyotTUhbjmwbVttUYh-g=m18
+#EXTINF:-1 ,La Casa de Las Flores La Película (2021)
+https://lh3.googleusercontent.com/62hUN02mMBCk-ldO11HHQjSn6YMHGT8_Jm7yI8LOhfvbp_P941UmUBPSQ0x04W-5FBXso6p8eMxOOmUt2BfMlCuE_iTqvIKPP2NIY71BjW9shi7BxbKm0Fc_xnWxMz1ULR5tqb9JEw0=m37
+#EXTINF:-1 ,Ni un paso en falso (2021)
+https://lh3.googleusercontent.com/RTwJ4HVLhx1qptRkSB-h5ie5dC90bjI3TKe6kb1W9dtV0hC0Saj1OcYg6oRBXQL61iYaZFlZKCWjUYHGKz6U2M71UT4hsYg_0rksMdhdB1WYn6zIJSoxN0QB1OsrjciPE8CQFegVdow=m22
+#EXTINF:-1 ,An American Pickle (2020)
+https://lh3.googleusercontent.com/zpwjl3_qgKuuBLRA5oLiJwcWsMVxZylMRMImrIG_lJP3vzN8WiXpfkP0YBi98pq_ojBLmsr7XhsGn7esrY56MXrjSwxPH02hESHNTpBbwpAvxe2RfvxyrNoEosYhWLIZ8eA97mv0fFo=m37
+#EXTINF:-1 ,Spirit El indomable (2021)
+https://lh3.googleusercontent.com/873zEDruCpR5ZcY5tL23VnTKUwYXVHBHeRUZsl2jpzXK8rFNdgTEA-EPqhJcu0rJBozdB_zjlcpXg2OPF61P6ybzA7mDPO5_cj9GTfPq4PQsSQ76Q84I6YPk9Oh1doRWL4b0wnX_Ox0=m18
+#EXTINF:-1 ,Un jefe en pañales (2017)
+https://lh3.googleusercontent.com/ymBBMcU5TNJF0NqOdGGKShaAH75ODcwAqDjO2N8vVzXlmt9bjYnMkXuR5j7ZWRlX7FX5BGkYiIvMKN6OfBlbY3WRDc6OxkBsJDJbdCRKnBlULsxsopJ_Ukj_aG_M5H0tgGCSTw=m37
+#EXTINF:-1 ,Un lugar en silencio Parte II (2021)
+https://lh3.googleusercontent.com/MfpTJxg8rxbMMfIxAoezrhwIoRK9qUUcb5uSb0jVgUf3GdWKEQA3sSt4SHOYG2g753wTR9ZNPFqLslFuCX6dO32NrKLw6H94_B2O89OIgxAxiDPOZspZhXDl8wUXu7AQlPuT06OGKjI=m18
+#EXTINF:-1 ,Luca (2021)
+https://lh3.googleusercontent.com/-YE6ETzGI4JJP9tUpeT8e9ebet5pO_RUX8MD3qIr44Yvc2uSp56ye0eQhpFfUUHkAm3Qw9sKrql2zoHewaAvpb-H3FYg7eqhTA_zg7l3c6vq0UZXg3Cjr1v01qu1etV-UniGuYtxqL0=m22
+#EXTINF:-1 ,Paternidad (2021)
+https://lh3.googleusercontent.com/1lzAKsM4ND4celBr6PL4YslycqVozdK0S9CDidom1KQiImwFfPlYdC4dYXGidf-EF_HfhZahpDtrhv83L1xczJ4CpdwQwyhQMJBHr29NeiucoanLpBH0xJQDyyO-rk9lgsxFGQpCX1Q=m18
+#EXTINF:-1 ,Confinados (2021)
+https://lh3.googleusercontent.com/tkHGVu79p9zEmEah45HWC_rg32Zl3dvHYwLUHhwgZQARXmR3WunvFjYJGyic3AZFQdxXBYmEg4CVLCVGF5B9Rf5ChlOLSc1VukLl1-HsyZNEijKhvjXOrLTFv6XcX4Zoydnxug_jBUo=m22
+#EXTINF:-1 ,Samurai X El Fin (2021)
+https://lh3.googleusercontent.com/yPHhELJbKxBMkeBDj6efJfAL6MWiVjElCOrsRZ_qs7nJZMmoNt7Tjg28MSeGALnNvmYhY_ukMuCH5EbeLLuGQ4C7fooNUN2I4GVn0oFNcJUSotxReBEPGKHTZXtNHafETsCqKUEA12A=m18
+#EXTINF:-1 ,Un lugar en silencio (2018)
+https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
+#EXTINF:-1 ,El Conjuro 3 el Diablo me Obligó a Hacerlo (2021)
+https://lh3.googleusercontent.com/CHHfklfunivBx4eE7F5tuMrxOBms20l3qz2k-iyf0wumJjQUes7kpx0oWviNqvDhjR6Rd8SDue7ehyxtpSZ2YYMFmH6q-8ZJjPMM4p6BgaYRkXh5VhB0qrJJ4NPO3WvgjmKvgj8tk7Y=m37
+#EXTINF:-1 ,Cruella (2021)
+https://lh3.googleusercontent.com/Gdjw9cfqg77L9Vwo5fvL0DVpR-c_I4K6t6MiNKLiJ7BVRwir98wZqGB7k_0eJ6BXaeVNA4JVfI5qsil1tRpHex2EDKsAUfHPqBzehhiuhHyJjLX5N2VKVG4B9xJZygnB8ann8oWu_6M=m37
+#EXTINF:-1 ,El Padre (2020)
+https://lh3.googleusercontent.com/1y62iH-WK1MeNBxqzwci4be39DYyE01OFGRqMYR7t7NJB0uwEJwgQ28dH3mtfAhX_efpbB-DdVPmucbZ5pYrj89NF8nrHkMCzjFl_-KhWRoYRwBU1pKNgqtCt1qHfLza1My5qwTKYu0=m37
+#EXTINF:-1 ,El Ejército de los Muertos (2021)
+https://lh3.googleusercontent.com/np-9UbEzrdBSlPq_2DR8fhEst8H-LiIWlmDhzxNXfrCO6DA8--RzvsZpO1DSw8GYGXQRYDkVOcfhvjWIxuFn1zLZWifNN5Er76ryNB5rmcMV9Q1XXvuOU4yAP0NDpielY3SRWPZCyb4=m37
+#EXTINF:-1 ,Unpregnant (2020)
+https://lh3.googleusercontent.com/nkzryVb3lS-rdlrDWdGL33OFp-FCELlnulHuU_KPMgB416uJtNYLuDBppiKdmRJai0wyiRGIRk96GnigsF66DjQamgZClm1OU-wUJ7htwq2NySsoChnvkO1bCGwGc-P2MuzD9Wqe6iY=m37
+#EXTINF:-1 ,La Mujer en la Ventana (2021)
+https://lh3.googleusercontent.com/Ap6QakWh9rrAAOSFcP2ZY_wuJv2k0mW5hU1v2XR8KCX-npgegV4R1trQDpO5nu8FWJgnYJbVI1OdKtDrUDS-RbBt6Tjio4e4gFE3Xld_FgsT_4SCK_tIplLEKRwZOMrce_aTehKmLyU=m37
+#EXTINF:-1 ,Ruega por Nosotros (2021)
+https://lh3.googleusercontent.com/c08npvjdJVGFrzO6EaIWACzRCuxNypHT-VOco11m74E7qGtgYzPRukZgbHcdkhlxmlVN1DBXURxx4z8FOv78zTqRGXyPB0_zrSDLciGtCEVmhS48yVNhOOZ8AV3mWRQ5V6yGG-DxMZ0=m37
+#EXTINF:-1 ,Relic Herencia Maldita (2020)
+https://lh3.googleusercontent.com/X44KWoS_F1KvGqdv7WtyI61dhy8eB88Qbmp0JBNgcYck4lmSCRksK-fQ_pAZnT_Xpmp2Cu_ZON9sYvZ0khfJSUwSYHuu9RrQswPM4HGRrpIAlCu1miREz2v4JR-YljT9OO1aw_HmWdw=m37
+#EXTINF:-1 ,Ferry (2021)
+https://lh3.googleusercontent.com/Dcv6XI_6uz9gUF2YSv5LIIX2QBcwWE8zmf94-o_NBsNpewCb9RpG6msqXc3KHJvcOcgQw21sbOTGdlmrvjmvXgTSbj1Fpe4tgBpFLaAhDcPObuABdddsPVc4k0kA3pAzoEZqZBigftA=m37
+#EXTINF:-1 ,Land (2021)
+https://lh3.googleusercontent.com/AjujsB-oLmVUH1maArg576-DER4Ma3_3JfDZ7ZURUZYwptJUpkuu2pjHgkcYo0f3dk3i2dR8iBMQC8IDC_4h6LTQYw2anzcI21jIzv-89US7iK0fH7RqZ41NomobKy6aW-QCKOZJJIA=m22
+#EXTINF:-1 ,Mortal Kombat (2021)
+https://lh3.googleusercontent.com/Ok1r7PUVxAhga6gJcHkrtrqBVAIWxCVPh57q81kJIvTo9NtUnPSmyP15AAkrLQUQ6aWVSnJ25Ku1AaErG5ISJAzHu0etHZBvuHgzC-YAfrbTQlsNJUUnJz8T6OfU7oz0wQD3bqXqQO0=m22
+#EXTINF:-1 ,Godzilla vs Kong (2021)
+https://lh3.googleusercontent.com/O0q0eqzCAO9D7qCufPx2Qwka_VQJdGznVnfYU4JJJvsC0DsXY1ViGWWTd5p3JnR1JdnB36WmAjDMXiDkcFaZF-WWLCgzHSyUXWaUyDYT-2yu7O29K1SG_HBQdMQp8xvhxPuyDtWCFMk=m37
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://occ-0-590-586.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbJjdHixfNHqtum2vX6Ud1N-9c-nE88q4UHrUqd9WtvA9bD96yp_4Mhd17ci3z-RyvOYSSv1K6fVAeILDeEUbZF0OFcBrY-qvFcc.png?r=fde",El Conjuro 3|2021
+http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0DmNJwB/cruella1.jpg",Cruella (2021)
 https://archive.org/download/tinaco_20210528/Crue11a.mkv
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/cv0tnajw2c6turq/soul.jpg",Soul
@@ -541,56 +561,6 @@ http://193.34.144.178/Bryan/pelisdisney/toy%20story%203.mp4
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
 #EXTINF:-1 ,up
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Up,%20una%20Aventura%20de%20Altura%20Online%20Gratis.MP4
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg",Tom & Jerry 2021 | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35194-486192-20200929064626.jpg",Venganza Implacable | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/Honest.thief.2020.1080srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1",SOUL | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1",Wonder Woman 1984 (2020) | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138",El Practicante | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1",Parasitos | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg",Verdad o Reto | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg",El Dilema de las Redes Sociales | REGIOFLIX
-http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg",El Infierno | REGIOFLIX
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg",Volver al Futuro | REGIOFLIX
-https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg",Volver al Futuro 2 | REGIOFLIX
-https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3 | REGIOFLIX
-https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg",Your Name | REGIOFLIX
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg",Jhonny English 3.0 | REGIOFLIX
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",Volver al Futuro | REGIOFLIX
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg",Next Gen | SRREGIO.NET
-https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg",Tragedy Girls | SRREGIO.NET
-https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg",La Fuerza De La Ilusion | REGIOFLIX
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg",Cuando nos Conocimos | REGIOFLIX
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",Nosotros Los Nobles | REGIOFLIX
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",The Cloverfield Paradox | REGIOFLIX
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus | REGIOFLIX
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg",Intensamente | REGIOFLIX
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW VIII | REGIOFLIX
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",Redada Asesina | REGIOFLIX
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 ,VOLVER AL FUTURO
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
 #EXTINF:-1 ,RALPH EL DEMOLEDOR
@@ -1405,8 +1375,6 @@ https://archive.org/download/hotel-transylvania-3/HT3/Hotel%20Transylvania%203.m
 https://ia601402.us.archive.org/21/items/1e08_20191210/8dc.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jw25dvF/La-era-de-hielo-2.jpg",Ice Age 2: El deshielo
 https://ia802803.us.archive.org/13/items/l4er4d3hi3l02/L4Er4d3hi3l0-2.mp4
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nR0rWSp/Intensa-Mente.jpg",Intensa-Mente
-http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ckY3HGY/intre.jpg",Intrepido (2020)
 https://archive.org/download/infantiles_202009/Intr%C3%A9pido%20%282020%29.mkv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DgNggv5/Jefe-en-pa-ales.jpg",Jefe en pañales
@@ -2065,18 +2033,7 @@ https://dl.dropboxusercontent.com/s/n8r4p0vk12q2p7v/SalynPM-Wall.E.mp4?dl=0
 https://dl.dropboxusercontent.com/s/s6xpfin40mjgxze/SalynPM-Love.simon.2018.1080p.mp4?dl=0
 #EXTINF:-1 ,Zootopia (2016)
 https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/03/ruega.jpg?resize=600%2C900&ssl=1",Ruega por nosotros | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/Ruega.por.nosotros.SrRegio.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",Forrest Gump | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/ForestGump.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg",Sangre por sangre | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/Sangre.por.Sangre.SrRegio.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg",Amigos Inseparables | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/AmInSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg",12 Horas para sobrevivir: La Primera Purga | REGIOFLIX
-http://ipeteve.com/REGIOFLIX100321/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO | REGIOFLIX
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
 
 
 
@@ -2771,67 +2728,74 @@ https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
 
 
 #EXTM3U
-http://regioflix.club/apoyo.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/03/ES_SPAIN_SUISQ2_STAR_TSR_INSTA_VERT_1638x2048_INTL_REV.jpg", Escuadron Suicida 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/The.suicide.squad.2021.1080p-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://martincid.com/wp-content/uploads/2021/07/MV5BNGNkZmJiZTAtY2M3MC00ZTNjLThkYmQtNmMxMTg3ZTJlNDA4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_-300x434.jpg", El ultimo Mercenario | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/El.%C3%9Altimo.Mercenario.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91sBA5ojHpL._AC_SY679_.jpg", Jungle Cruise 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Jungle.Cruise.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/7/0/2/9/19207-1-esl-CO/2-Cineco-poster-480x670px.png", La Purga por siempre | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/The.forever.purge.2021.1080p-dual-lat-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/The.forever.purge.2021.1080p-dual-lat-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36190-193973-20210429093602.jpg", Justicia Implacable | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Justicia.Implacable.%282021%29.2021.1080P-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/Justicia.Implacable.%282021%29.2021.1080P-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marveldatabase/images/1/1c/Black_Widow_%28film%29_poster_019.jpg/revision/latest?cb=20210629171105", Viuda Negra 2021 | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Black.Widow.2021.1080P-Dual-Lat-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/Black.Widow.2021.1080P-Dual-Lat-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/t1UAGfNwGF-NQBCQJDAJSkc-USrDrmwCnhdbGRo3soLirgDlroHe82JjHh0e5hjWw3ht4kcQgGwmwMR5fEXQ0hUuHPqBsAlwUYrn1vzslBeOZ2NYGR0CL_e0j6-egVt4IyjsI1w-_jBcHZS07yGbFdQ4SEb3ElY", Bebe Jefazo 2 Negocios de familia | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
+http://ipeteve.com/REGIOFLIX070821/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/07/guerra.jpg?fit=480%2C600&ssl=1", La guerra del manana | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/La.Guerra.Del.Ma%C3%B1ana.%282021%29.1080P-Dual-Lat-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/La.Guerra.Del.Ma%C3%B1ana.%282021%29.1080P-Dual-Lat-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/07/calle-1.jpg?fit=426%2C597&ssl=1", La calle del Terror | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/20/31/19785394.jpg?coixp=47&coiyp=41", El Rey Leon | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/El%20Rey%20LeonSr.Regio.mkv
+http://ipeteve.com/REGIOFLIX070821/El%20Rey%20LeonSr.Regio.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/studioghibli/images/a/ac/Mi-vecino-totoro_portada_ESP.jpg/revision/latest?cb=20200411042641&path-prefix=es", Mi vecino Totoro | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Mi%20vecino%20TotoroSr.Regio.mkv
+http://ipeteve.com/REGIOFLIX070821/Mi%20vecino%20TotoroSr.Regio.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9695/nadie-cartel-9712.jpg", Nadie | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61sznT-4n3L._AC_SX466_.jpg", LUCA | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
+http://ipeteve.com/REGIOFLIX070821/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Paternidad-729485901-large.jpg", Paternidad | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Fatherhood.%282021%29.1080P-Dual-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX070821/Fatherhood.%282021%29.1080P-Dual-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://benditospoiler.com/wp-content/uploads/2021/04/poster-691x1024.png", El Conjuro 3 | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/el%20conjuro%203%201080p-srregio.net.mkv
+http://ipeteve.com/REGIOFLIX070821/el%20conjuro%203%201080p-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35838-292439-20210126075948.jpg", Juega Conmigo | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Juega.Conmigo.%282021%29.1080P-Dual-Lat-srregio.net.mkv
+http://ipeteve.com/REGIOFLIX070821/Juega.Conmigo.%282021%29.1080P-Dual-Lat-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/Disomnia.jpg?fit=405%2C600&ssl=1", Disomnia | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Disomnia.%282021%29.1080P-Dual-Lat-srregio.net.mkv
+http://ipeteve.com/REGIOFLIX070821/Disomnia.%282021%29.1080P-Dual-Lat-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/g/godzilla-v/godzilla-vs-king-kong_qw9s.jpg", Godzilla vs Kong 2021 | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
+http://ipeteve.com/REGIOFLIX070821/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/21/a8/42/21a842f616dcd343a96776516f329fd2.jpg", Cara Cortada | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/CaraCortada.SrRegio.mkv
+http://ipeteve.com/REGIOFLIX070821/CaraCortada.SrRegio.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2020/07/6d3bf3be24955540eb853cfe75318dc5-819x1024.jpg", Cruella | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Cruella.SrRegio.mp4
+http://ipeteve.com/REGIOFLIX070821/Cruella.SrRegio.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/03/ruega.jpg?resize=600%2C900&ssl=1", Ruega por nosotros | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Ruega.por.nosotros.SrRegio.mkv
+http://ipeteve.com/REGIOFLIX070821/Ruega.por.nosotros.SrRegio.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021 | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
+http://ipeteve.com/REGIOFLIX070821/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/ForestGump.mp4
+http://ipeteve.com/REGIOFLIX070821/ForestGump.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg", Sangre por sangre | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Sangre.por.Sangre.SrRegio.mp4
+http://ipeteve.com/REGIOFLIX070821/Sangre.por.Sangre.SrRegio.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg", Amigos Inseparables | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/AmInSRREGIO.mkv
+http://ipeteve.com/REGIOFLIX070821/AmInSRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg", 12 Horas para sobrevivir: La Primera Purga | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
+http://ipeteve.com/REGIOFLIX070821/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", Tom & Jerry 2021 | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
+http://ipeteve.com/REGIOFLIX070821/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35194-486192-20200929064626.jpg", Venganza Implacable | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Honest.thief.2020.1080srregio.net.mkv
+http://ipeteve.com/REGIOFLIX070821/Honest.thief.2020.1080srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
+http://ipeteve.com/REGIOFLIX070821/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
+http://ipeteve.com/REGIOFLIX070821/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg", Toys Of Terror | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
+http://ipeteve.com/REGIOFLIX070821/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1", Wonder Woman 1984 (2020) | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+http://ipeteve.com/REGIOFLIX070821/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | REGIOFLIX
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | REGIOFLIX
@@ -2892,6 +2856,11 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | REGIOFLIX  
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+
+
+
+
 
 
 
